@@ -4,7 +4,7 @@
 
 @section('content')
     <h1 class="h3 mb-4">KMI rezultatas</h1>
-    <div class="text-center bg-primary-subtle rounded p-4 mb-4">
+    <div class="text-center bg-body-secondary rounded p-4 mb-4">
         <p class="mb-1">Jūsų kūno masės indeksas</p>
         <p class="display-5 fw-semibold mb-0">{{ number_format($kmi, 2, ',', '') }}</p>
     </div>

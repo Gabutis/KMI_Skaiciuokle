@@ -4,6 +4,6 @@ Svetainių vidinės sistemos programavimo užduotis. Internetinė KMI skaičiuok
 
 ## Ekrano nuotraukos
 
-![KMI skaičiuoklė](screenshots/skaiciuokle.png)
+![KMI skaičiuoklė](screenshots/forma.png)
 
 ![KMI rezultatas](screenshots/rezultatas.png)

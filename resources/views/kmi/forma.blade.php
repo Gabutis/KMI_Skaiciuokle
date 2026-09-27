@@ -4,7 +4,7 @@
 
 @section('content')
     <h1 class="h3 mb-3">KMI skaičiuoklė</h1>
-    <p class="text-secondary">Įveskite savo svorį ir ūgį, kad apskaičiuotumėte kūno masės indeksą.</p>
+    <p class="text-body-secondary">Įveskite savo svorį ir ūgį, kad apskaičiuotumėte kūno masės indeksą.</p>
 
     @if ($errors->any())
         <div class="alert alert-danger" role="alert">
